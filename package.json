@@ -1,0 +1,38 @@
+{
+	"name": "webpack",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"private": true,
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "webpack",
+		"watch": "webpack --watch",
+		"start": "webpack serve --open",
+		"server": "node server.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"html-webpack-plugin": "^5.5.0",
+		"lodash": "^4.17.21",
+		"webpack": "^5.74.0",
+		"webpack-cli": "^4.10.0",
+		"webpack-dev-server": "^4.11.0",
+		"webpack-manifest-plugin": "^5.0.0"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.19.0",
+		"@babel/preset-env": "^7.19.0",
+		"@types/lodash": "^4.14.184",
+		"babel-loader": "^8.2.5",
+		"css-loader": "^6.7.1",
+		"express": "^4.18.1",
+		"style-loader": "^3.3.1",
+		"ts-loader": "^9.3.1",
+		"typescript": "^4.8.3",
+		"webpack-dev-middleware": "^5.3.3",
+		"workbox-webpack-plugin": "^6.5.4"
+	}
+}

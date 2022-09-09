@@ -1,0 +1,12 @@
+{
+  "index.js": "./index.f964c15ebc2dc2a62d69.js",
+  "print.js": "./print.773b19b36e82ccf0634d.js",
+  "runtime.js": "./runtime.d73a3953e00f575d2665.js",
+  "vendors.js": "./vendors.d970f9f43345d494e73b.js",
+  "workbox-b5366f8b.js.map": "./workbox-b5366f8b.js.map",
+  "workbox-b5366f8b.js": "./workbox-b5366f8b.js",
+  "ome.png": "./eaedb0a3447d03179362.png",
+  "service-worker.js.map": "./service-worker.js.map",
+  "service-worker.js": "./service-worker.js",
+  "index.html": "./index.html"
+}
